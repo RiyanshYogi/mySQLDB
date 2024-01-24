@@ -29,7 +29,7 @@ install MySQL 8.0.35 Server and Workbench latest version on Windows 11. Follow b
         open the mysql shell in cmd by following command
             "mysql -u root -p" then enter the password and execute queries.
 
-# Now Prefer Queries.txt file 
+# Now Prefer given mysql pdf. 
         
 
 
